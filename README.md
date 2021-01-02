@@ -1,0 +1,3 @@
+# supermarket_wechat_miniprogram
+这是一个微信小程序商城
+使用微信开发者工具和Visual Studio Code开发的小程序商城，更多详细内容请下载文档。
