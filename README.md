@@ -1,0 +1,2 @@
+# supermarket_wechat_miniprogram
+这是一个微信小程序商城
