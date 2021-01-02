@@ -1,0 +1,11 @@
+<!--pages/developer/index.wxml-->
+<text class="develop">
+    产品名称: 超级市场\n
+    APPID: wx3e8f97c16d4e9f2b\n
+    作者:　金彬彬\n
+    用途: 用于微信小程序开发课程设计\n
+    学号: 201722450813\n
+    公众号: 暗组科技\n
+    博客园: https://www.cnblogs.com/jake-jin
+</text>
+<image class="pay" src="{{zhiFu}}" mode="aspectFill"></image>

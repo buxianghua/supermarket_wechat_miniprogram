@@ -1,0 +1,2 @@
+<!--pages/recommend/index.wxml-->
+<web-view src="https://www.cnblogs.com/jake-jin/">点击此处</web-view>
